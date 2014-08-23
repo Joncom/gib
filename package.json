@@ -1,0 +1,9 @@
+{
+    "name" : "gib",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "canvas" : "1.1.5",
+        "colors" : "0.6.2",
+        "socket.io" : "1.0.6"
+    }
+}
