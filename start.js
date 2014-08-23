@@ -53,8 +53,7 @@ fs.readFile('config.js', 'utf8', function(error, data){
     // Make components accessible to Impact.
     ig.config = config;
 
-    var folder = process.argv[2]; // Get first user supplied arg.
-    var path = impactLibPath + '/' + folder + '/main.js';
+    var path = impactLibPath + '/game/server/main.js';
 
     // Check if target app exists.
     if(fs.existsSync(path)) require(path); // App exists. Start it...
