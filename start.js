@@ -50,7 +50,7 @@ fs.readFile('config.js', 'utf8', function(error, data){
     window.HTMLElement = Canvas;
     require(impactLibPath + '/impact/impact.js');
 
-    // Make components accessible to Impact.
+    // Make configuration accessible to Impact.
     ig.config = config;
 
     var path = impactLibPath + '/game/server/main.js';
