@@ -1,8 +1,19 @@
 gib
 ===
 
-#### An HTML5 Network Experiment ####
+#### This is a simple multiplayer top-down shooter made for Ludum Dare 30. ####
 
 ## Controls: ##
 
-## TODO: ##
+- WASD to move
+- Mouse to shoot
+
+## Changes: ##
+
+### v1.0.0 ###
+
+- First Release
+
+### v1.0.1 ###
+
+- ...
