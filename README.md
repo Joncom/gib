@@ -17,3 +17,4 @@ gib
 ### v1.0.1 ###
 
 - Show players their ping.
+- Show socket count, and dead player count on server.
