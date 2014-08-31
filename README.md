@@ -16,4 +16,4 @@ gib
 
 ### v1.0.1 ###
 
-- ...
+- Show players their ping.
