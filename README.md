@@ -19,3 +19,4 @@ gib
 
 - Show players, pings, and scores when tab is pressed.
 - Show socket count, and dead player count on server.
+- Fix bug where a player could join using an in-use name if the other player is dead.
