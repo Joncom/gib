@@ -7,6 +7,7 @@ gib
 
 - WASD to move
 - Mouse to shoot
+- Tab to check score
 
 ## Changes: ##
 
@@ -16,5 +17,5 @@ gib
 
 ### v1.0.1 ###
 
-- Show players their ping.
+- Show player ping and score when tab is pressed.
 - Show socket count, and dead player count on server.
