@@ -17,5 +17,5 @@ gib
 
 ### v1.0.1 ###
 
-- Show player ping and score when tab is pressed.
+- Show players, pings, and scores when tab is pressed.
 - Show socket count, and dead player count on server.
