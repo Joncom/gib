@@ -21,3 +21,4 @@ gib
 - Add short delay before player can respawn.
 - Show socket count, and dead player count on server.
 - Fix bug where a player could join using an in-use name if the other player is dead.
+- Draw 'connecting', etc. on screen before the game starts.
