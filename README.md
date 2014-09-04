@@ -18,5 +18,6 @@ gib
 ### v1.0.1 ###
 
 - Show players, pings, and scores when tab is pressed.
+- Add short delay before player can respawn.
 - Show socket count, and dead player count on server.
 - Fix bug where a player could join using an in-use name if the other player is dead.
