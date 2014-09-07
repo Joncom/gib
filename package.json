@@ -1,6 +1,6 @@
 {
     "name" : "gib",
-    "version" : "1.0.1",
+    "version" : "1.0.2",
     "dependencies" : {
         "node-uuid" : "1.4.1",
         "canvas" : "1.1.5",
