@@ -22,3 +22,7 @@ gib
 - Show socket count, and dead player count on server.
 - Fix bug where a player could join using an in-use name if the other player is dead.
 - Draw 'connecting', etc. on screen before the game starts.
+
+### v1.0.2 In-Development ###
+
+- Fix bug where a player may occasionally shoot through a wall.
