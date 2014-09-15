@@ -26,3 +26,4 @@ gib
 ### v1.0.2 In-Development ###
 
 - Fix bug where a player may occasionally shoot through a wall.
+- Unload level and show 'disconnected' message if connection lost.
