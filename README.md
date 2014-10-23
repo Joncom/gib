@@ -23,7 +23,8 @@ gib
 - Fix bug where a player could join using an in-use name if the other player is dead.
 - Draw 'connecting', etc. on screen before the game starts.
 
-### v1.0.2 In-Development ###
+### v1.0.2 ###
 
 - Fix bug where a player may occasionally shoot through a wall.
 - Unload level and show 'disconnected' message if connection lost.
+- Restructure code to be more tidy and readable.
