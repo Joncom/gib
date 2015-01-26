@@ -9,6 +9,16 @@ gib
 - Mouse to shoot
 - Tab to check score
 
+## TODO: ##
+
+- Add iPod touch support similar to X-Type.
+- Add spawn invulnerability.
+- Show who killed who.
+- Add the ability to kick.
+- Add the ability to ban by name and/or IP.
+- Add one bot that disappears if ever two real players are present.
+- Catch failure to connect to server due to 404 error on script load.
+
 ## Changes: ##
 
 ### v1.0.0 ###
