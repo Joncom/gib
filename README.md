@@ -29,6 +29,10 @@ gib
 - Unload level and show 'disconnected' message if connection lost.
 - Restructure code to be more tidy and readable.
 
+### v1.0.3 ###
+
+- Server: Fix infinite loop bug that crashes the server.
+
 ## TODO: ##
 
 - Add iPod touch support similar to X-Type.
