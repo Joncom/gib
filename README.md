@@ -33,6 +33,10 @@ gib
 
 - Server: Fix infinite loop bug that crashes the server.
 
+### v1.0.4 ###
+
+- Added an explosive weapon upgrade
+
 ## TODO: ##
 
 - Add iPod touch support similar to X-Type.
