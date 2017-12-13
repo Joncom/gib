@@ -46,3 +46,10 @@ gib
 - Add the ability to ban by name and/or IP.
 - Add one bot that disappears if ever two real players are present.
 - Catch failure to connect to server due to 404 error on script load.
+- Allow color selection
+- Add color to explosion
+- Add name changing
+- Add grenades that each player starts with
+- Add mobile control support (left finger is X-Type style analog stick; right half is "swipe to aim/shoot")
+- Set initial velcoity of corpses based on attack angle, so bodies "fly" a bit
+- Allow shots to push upgrade around a bit
